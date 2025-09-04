@@ -35,7 +35,7 @@ To provide actionable insights into hospital ER performance by tracking patient 
 ---
 
 ## 📸 Dashboard Preview
-![Hospital Dashboard](./Patientdata.png)
+![Hospital Dashboard](https://github.com/muthuswamynadar/data-analytics-dashboard/blob/5b7a606107cbc3a528e56323c85f83f4e0f3302c/PatientData.png)
 
 ---
 
